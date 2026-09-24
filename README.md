@@ -1,0 +1,2 @@
+# Cloud-Based-Student-Assignment-Submission-And-Feedback-Portal
+Cloud-Based Student Assignment Submission &amp; Feedback Portal built with React, FastAPI, Python, SQLAlchemy, REST APIs, JWT authentication, and role-based access control. Students can submit assignments and view feedback, while teachers can manage assignments, grade submissions, and provide feedback using a secure, cloud-ready architecture.
